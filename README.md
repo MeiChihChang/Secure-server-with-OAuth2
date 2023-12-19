@@ -1,2 +1,2 @@
 # Secure-server-with-OAuth2
-Secure login with keycloak IAM by Spring boot Java
+Secure server with keycloak IAM by Spring boot Java
